@@ -5,13 +5,13 @@ the use of computer-supported interactive visual representations of abstract dat
 
 1. Snow’s map of cholera epidemic
 
-   ![](./Img/Snow’s map of cholera epidemic.jpg)
+   ![](./Img/Snow map of cholera epidemic.jpg)
 
    source:https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak
 
 2. Minard’s diagram of Napoleon’s campaign against Russia
 
-   ![](./Img/Minard’s diagram of Napoleon’s campaign against Russia.png)
+   ![](./Img/Minard diagram of Napoleon’s campaign against Russia.png)
 
    source:https://en.wikipedia.org/wiki/File:Minard.png
 
