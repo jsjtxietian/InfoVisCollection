@@ -39,11 +39,41 @@ the use of computer-supported interactive visual representations of abstract dat
 
    source:https://visual.ly/community/infographic/education/education-vs-incarceration
 
-7. 
+7. Pulp Fiction in Chronological Order
+
+   ![](./Img/j7.jpg)
+
+   source:https://visual.ly/community/Infographics/entertainment/pulp-fiction-chronological-order
+
+8. Comprehensive History of Philosophy
+
+   ![](./Img/j8.jpg)
+
+   source：https://superscholar.org/comp-history-philosophy/
+
+9. Cubism and abstract art：
+
+   ![](./Img/j9.png)
+
+   source：https://visual.ly/community/Infographics/other/cubism-and-abstract-art
+
+10. how to look at modern art in america:
+
+    ![](./Img/j10.jpg)
+
+    source:https://www.pinterest.com/pin/137782069826585528/
+
+11. spotting a hidden gun :
+
+    ![](./Img/j11.jpg)
+
+    source:https://visual.ly/community/Infographics/how/how-spot-hidden-handgun
 
 # 网页
 
-1. Film Dialogue ： https://pudding.cool/2017/03/film-dialogue/index.html
+1. a colloection：https://www.cc.gatech.edu/gvu/ii/dds/charts/corpus.html
+
+2. Film Dialogue ： https://pudding.cool/2017/03/film-dialogue/index.html
 
    (a) “Film Dialogue” is a narrative comparing female to male dialogue in 2000 screenplays of popular films. 
 
@@ -51,23 +81,23 @@ the use of computer-supported interactive visual representations of abstract dat
 
    (c) The story’s main message that women have far less dialogue than men is clearly communicated by the views and the accompanying text. Yet, the reader can explore each view interactively to investigate individual films. Thus, explanation and exploration complement one another to form an engaging story.
 
-2. https://www.theguardian.com/world/ng-interactive/2015/aug/26/china-economic-slowdown-world-imports
+3. https://www.theguardian.com/world/ng-interactive/2015/aug/26/china-economic-slowdown-world-imports
 
    This interactive data-driven story contains explanatory elements, such as the headline, text, tooltips, and visual metaphor. It also contains exploratory elements: a reader can explore the effect of different values of China’s economic slowdown by sliding the bottom circle, representing China, up or down. This updates the visualization of the remaining countries accordingly.
 
-3. http://mbtaviz.github.io/
+4. http://mbtaviz.github.io/
 
    This graphic juxtaposes a subway map, heatmaps, bars, and text to provide a flexibility in the view. It further supports flexibility of focus by using a variety of small graphics that reveal different aspects of the data.
 
-4. https://terror.periscopic.com/
+5. https://terror.periscopic.com/
 
    The multiple coordinated views shown here allow the reader to explore connections through brushing and linking.
 
-5. http://www.facesoffracking.org/data-visualization/
+6. http://www.facesoffracking.org/data-visualization/
 
    Readers can experience this visualization in different sequences by stepping through different points on the right or by scrolling to step through in an author-determined linear order. 
 
-6. https://www.bloomberg.com/graphics/2015-whats-warming-the-world/
+7. https://www.bloomberg.com/graphics/2015-whats-warming-the-world/
 
    This data-driven story uses a linear sequence of visualizations to build a narrative. 
 
@@ -75,47 +105,86 @@ the use of computer-supported interactive visual representations of abstract dat
 
    (b) In the last step of the sequence, the author has placed all previously shown data within one view to support the story’s conclusion.
 
-7. https://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html
+8. https://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html
 
-8. https://www.nytimes.com/interactive/2014/08/13/upshot/where-people-in-each-state-were-born.html
+9. https://www.nytimes.com/interactive/2014/08/13/upshot/where-people-in-each-state-were-born.html
 
-9. https://infogram.com/beyond_crowdfunding
+10. https://infogram.com/beyond_crowdfunding
 
-10. https://www.nytimes.com/interactive/2015/01/29/sunday-review/road-map-home-values-street-names.html
+11. https://www.nytimes.com/interactive/2015/01/29/sunday-review/road-map-home-values-street-names.html
 
-11. https://www.nytimes.com/interactive/2014/09/03/us/the-race-gap-in-americas-police-departments.html
+12. https://www.nytimes.com/interactive/2014/09/03/us/the-race-gap-in-americas-police-departments.html
 
-12. https://www.nytimes.com/interactive/2014/07/31/world/middleeast/in-gaza-a-pattern-of-conflict.html
+13. https://www.nytimes.com/interactive/2014/07/31/world/middleeast/in-gaza-a-pattern-of-conflict.html
 
-13. https://www.nytimes.com/interactive/2014/09/19/nyregion/stop-and-frisk-is-all-but-gone-from-new-york.html
+14. https://www.nytimes.com/interactive/2014/09/19/nyregion/stop-and-frisk-is-all-but-gone-from-new-york.html
 
-    **break，book P123，11** need more info
+15. https://www.nytimes.com/2014/09/05/upshot/4th-down-when-to-go-for-it-and-why.html
 
-14. Narrative Patterns for Data-Driven Storytelling http://napa-cards.net/
+16. https://www.nytimes.com/interactive/2014/09/14/sports/baseball/jeter-swings.html
 
-15. http://www.thewaterweeat.com/
+17. https://www.theguardian.com/film/ng-interactive/2015/feb/20/what-it-really-means-to-win-the-oscars-best-director
 
-16. http://globe.cid.harvard.edu/
+18. https://www.theguardian.com/world/interactive/2012/may/08/gay-rights-united-states
 
-17. The Fallen of World War II：https://vimeo.com/128373915
+19. The History and Future of Everything—Time:https://www.youtube.com/watch?v=2XkV6IpV2Y0
 
-18. US debt ceiling visualized in $100 bills：http://demonocracy.info/infographics/usa/us_debt/us_debt.html
+20. https://www.bloomberg.com/graphics/dataview/how-americans-die/
 
-19. Hans Rosling’s 200 countries, 200 years, 4 minutes—The joy of stats— BBC Four：https://www.youtube.com/watch?v=jbkSRLYSojo
+21. https://www.bloomberg.com/graphics/dataview/bubble-to-bust-to-recovery/
 
-20. U.S. gun deaths in 2013：https://guns.periscopic.com/?year=2013
+    This demonstrates the use of dots as breadcrumbs, highlighting elements, tooltips, and a consistent color scheme between the textual narrative and the visualization. The legend acts as a dynamic query widget for filtering the chart
 
-21. https://www.oecdbetterlifeindex.org/#/34111111111
+22. http://muyueh.com/greenhoney/
 
-22. https://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html?mtrref=undefined&gwh=A6EBCBFDFCAE9877FDF615A9027822AA&gwt=pay&assetType=PAYWALL
+23. http://selfiecity.net/
 
-23. https://www.nytimes.com/interactive/2014/02/09/opinion/minimum-wage.html
+24. https://www.bbc.com/future/article/20150318-i-use-a-drone-to-spy-on-people
 
-24. https://www.washingtonpost.com/graphics/national/police-shootings-2016/
+25. https://www.bloomberg.com/graphics/2015-auto-sales/
 
-25. https://unwanted.interactivethings.io/#/introduction
+    These consist of the single set of glyphs repositioned into different groups when the reader scrolls to a certain position.
 
-26. https://www.wsj.com/graphics/beat-the-fed/
+26. Wealth Inequality in America:https://www.youtube.com/watch?v=QPKKQnijnsM
 
-27. https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/conceptionandfertilityrates/articles/teenagepregnanciesperceptionversusreality/2016-03-09
+27. https://www.nytimes.com/interactive/2014/10/29/upshot/obamacare-who-was-helped-most.html
 
+28. https://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/
+
+29. http://www.thewaterweeat.com/
+
+30. http://globe.cid.harvard.edu/
+
+31. The Fallen of World War II：https://vimeo.com/128373915
+
+32. US debt ceiling visualized in $100 bills：http://demonocracy.info/infographics/usa/us_debt/us_debt.html
+
+33. Hans Rosling’s 200 countries, 200 years, 4 minutes—The joy of stats— BBC Four：https://www.youtube.com/watch?v=jbkSRLYSojo
+
+34. U.S. gun deaths in 2013：https://guns.periscopic.com/?year=2013
+
+35. https://www.oecdbetterlifeindex.org/#/34111111111
+
+36. https://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html?mtrref=undefined&gwh=A6EBCBFDFCAE9877FDF615A9027822AA&gwt=pay&assetType=PAYWALL
+
+37. https://www.nytimes.com/interactive/2014/02/09/opinion/minimum-wage.html
+
+38. http://paintbynumbersblog.blogspot.com/2014/07/minimum-wage-story-points-edition.html
+
+    This scene provides examples of textual narrative, slides with titles as breadcrumbs, element highlighting, and textual annotation on the chart.
+
+39. https://www.washingtonpost.com/graphics/national/police-shootings-2016/
+
+40. https://unwanted.interactivethings.io/#/introduction
+
+41. https://www.wsj.com/graphics/beat-the-fed/
+
+42. https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/conceptionandfertilityrates/articles/teenagepregnanciesperceptionversusreality/2016-03-09
+
+# Tools
+
+1. Narrative Patterns for Data-Driven Storytelling http://napa-cards.net/
+
+# Todos
+
+1. 疫情相关的可视化
