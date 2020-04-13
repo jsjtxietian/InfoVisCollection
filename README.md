@@ -47,8 +47,6 @@ the use of computer-supported interactive visual representations of abstract dat
 
 8. Comprehensive History of Philosophy
 
-   ![](./Img/j8.jpg)
-
    source：https://superscholar.org/comp-history-philosophy/
 
 9. Cubism and abstract art：
@@ -180,6 +178,10 @@ the use of computer-supported interactive visual representations of abstract dat
 41. https://www.wsj.com/graphics/beat-the-fed/
 
 42. https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/conceptionandfertilityrates/articles/teenagepregnanciesperceptionversusreality/2016-03-09
+
+43. 汉密尔顿 https://pudding.cool/2017/03/hamilton/index.html
+
+44. 汉密尔顿韵律 http://graphics.wsj.com/hamilton/
 
 # Tools
 
