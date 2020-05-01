@@ -192,19 +192,25 @@ the use of computer-supported interactive visual representations of abstract dat
 # Useful websites
 
 1. Narrative Patterns for Data-Driven Storytelling http://napa-cards.net/
-2. http://www.datasketch.es/
-3. http://www.dear-data.com/theproject/
-4. http://dear-data-two.com/
-5. a section of FlowingData excellent blog specifically on data art https://flowingdata.com/category/visualization/artistic-visualization/
-6. https://flowingdata.com/tag/music/
-7. a TEDx playlist (take it with skepticism) https://www.ted.com/playlists/201/art_from_data
-8. a very interesting REDDIT thread https://www.reddit.com/r/DataArt/
-9. a link to discuss briefly about the concept of "data art" more news about this https://www.theatlantic.com/entertainment/archive/2015/05/the-rise-of-the-data-artist/392399/
-10. The missing link between spreadsheets and data visualization https://github.com/rawgraphs/raw 
-11. https://informationisbeautiful.net/
-12. http://www.visualcomplexity.com/vc/
-13. http://www.infographics.com/portfolio.php
+2. https://github.com/blprnt/DataPublics
+3. https://datajournalism.com/read
+4. https://www.yuque.com/mo-college/weekly
+5. http://www.datasketch.es/
+6. http://www.dear-data.com/theproject/
+7. http://dear-data-two.com/
+8. a section of FlowingData excellent blog specifically on data art https://flowingdata.com/category/visualization/artistic-visualization/
+9. https://flowingdata.com/tag/music/
+10. a TEDx playlist (take it with skepticism) https://www.ted.com/playlists/201/art_from_data
+11. a very interesting REDDIT thread https://www.reddit.com/r/DataArt/
+12. a link to discuss briefly about the concept of "data art" more news about this https://www.theatlantic.com/entertainment/archive/2015/05/the-rise-of-the-data-artist/392399/
+13. The missing link between spreadsheets and data visualization https://github.com/rawgraphs/raw 
+14. https://informationisbeautiful.net/
+15. http://www.visualcomplexity.com/vc/
+16. http://www.infographics.com/portfolio.php
+17. open refine
+18. https://github.com/ft-interactive/visual-vocabulary
+19. https://www.data-to-viz.com/
 
 # Todos
 
-1. 疫情相关的可视化
+1. 整理网页
