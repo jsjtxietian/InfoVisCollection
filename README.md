@@ -210,6 +210,8 @@ the use of computer-supported interactive visual representations of abstract dat
 17. open refine
 18. https://github.com/ft-interactive/visual-vocabulary
 19. https://www.data-to-viz.com/
+20. https://www.johngrimwade.com/ 博客
+21. 
 
 # Todos
 
